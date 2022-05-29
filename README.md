@@ -11,3 +11,4 @@ if you collide with obstacle or go outside the platform , you will lose
 then you have to press continue button to restart the game 
 
 Others are script files for this game 
+Download Myfirstgame.exe file to play my game
